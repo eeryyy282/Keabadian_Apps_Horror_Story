@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.keabadian" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/black_keabadian</item>
+        <item name="android:textColorPrimary">@color/white</item>
+        <item name="textAllCaps">true</item>
+        <item name="android:fontFamily">@font/unica_one_regular</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="Theme.Keabadian" parent="Base.Theme.keabadian" />
+    <style name="RoundedSquare">
+        <item name="cornerSize">10%</item>
+        <item name="strokeColor">@color/white</item>
+        <item name="strokeWidth">10sp</item>
+    </style>
+    <style name="ProfilFoto">
+        <item name="cornerSize">50%</item>
+        <item name="strokeColor">@color/white</item>
+        <item name="strokeWidth">10sp</item>
+    </style>
+</resources>

@@ -1,0 +1,238 @@
+<resources>
+    <string name="app_name">Keabadian</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="owner_name">MUHAMMAD JUZAIRI SAFITLI</string>
+    <string name="original_made_by">ORIGINAL MADE BY:</string>
+    <string name="dicoding_submission">DICODING SUBMISSION</string>
+    <string name="keabadian">KEABADIAN</string>
+    <string name="selamat_datang_di">SELAMAT DATANG DI</string>
+    <string name="judul_konten">Judul Konten</string>
+    <string name="lokasi_konten">Lokasi Konten</string>
+    <string name="tanggal_konten">Tanggal Konten</string>
+    <string name="cerita_konten">Cerita Konten</string>
+    <string name="kepergian_yang_diwarnai_oleh_ketidakpastian_dan_kegelapan_menggambarkan_perjalanan_akhir_yang_penuh_misteri">Kepergian yang diwarnai oleh ketidakpastian dan kegelapan, menggambarkan perjalanan akhir yang penuh misteri.</string>
+    <string name="mari_bercerita">MARI BERCERITA</string>
+    <string name="tulis_namamu_di_sini">Tulis namamu di sini</string>
+    <string name="ayo_mulai">AYO MULAI!</string>
+    <string name="sebelum_bercerita_n_siapa_nama_mu">Sebelum bercerita\n siapa nama mu?</string>
+    <string name="selanjutnya">Selanjutnya</string>
+    <string name="perjumpaan_yang_abadi_dengan_maut_mengulas_tentang_takdir_dan_perjalanan_menuju_keabadian">perjumpaan yang abadi dengan maut, mengulas tentang takdir dan perjalanan menuju keabadian.</string>
+    <string name="sugeng_rawuh">Sugeng Rawuh,</string>
+    <string name="deskripsi_konten">Deskripsi Konten</string>
+    <string name="judul_konten_row">Judul Konten</string>
+    <string name="lokasi_konten_row">Lokasi Konten</string>
+    <string name="tanggal_konten_row">Tanggal Konten</string>
+    <string name="dalam_list">Dalam List</string>
+    <string name="dalam_grid">Dalam Grid</string>
+    <string name="profil_saya">Profil Saya</string>
+    <string name="profil">PROFIL</string>
+    <string name="muhammad_juzairi_safitli">Muhammad Juzairi Safitli</string>
+    <string name="airiagustus82_gmail_com">airiagustus82@gmail.com</string>
+    <string name="terima_kasih_dicoding_team_perjalanan_yang_seru_rasanya_saya_bisa_belajar_banyak_terkait_android_di_sini">Terima kasih, Dicoding Team! Perjalanan yang seru rasanya saya bisa belajar banyak terkait Android di sini! :) \n\n Terima Kasih @EkaMelisaa, Atas Bantuannya Telah Membantu Saya Mendesain Aplikasi Ini! :D</string>
+
+    <string-array name="data_title_horror_content">
+        <item>Tirai dan Perempuan Merah</item>
+        <item>Rumah Sakit Bekas Perang di Desaku</item>
+        <item>Tangan Itu Melihatku Tidur</item>
+        <item>Boneka Hantu</item>
+        <item>Boneka Robotic Berhantu</item>
+        <item>Dapur Pembunuh Berantakan</item>
+        <item>Ruangan Terlupakan, Bekas Sarang Preman</item>
+        <item>Kota Hantu Seram</item>
+        <item>Kota Jelangkung</item>
+        <item>Kuburan Keramat Pak Mamat</item>
+    </string-array>
+
+    <string-array name="data_photo_horror_content">
+        <item>@drawable/konten1</item>
+        <item>@drawable/konten2</item>
+        <item>@drawable/konten3</item>
+        <item>@drawable/konten4</item>
+        <item>@drawable/konten5</item>
+        <item>@drawable/konten6</item>
+        <item>@drawable/konten7</item>
+        <item>@drawable/konten8</item>
+        <item>@drawable/konten9</item>
+        <item>@drawable/konten10</item>
+    </string-array>
+
+    <string-array name="data_date_horror_content">
+        <item>19 Agustus 2023</item>
+        <item>21 Februari 2021</item>
+        <item>11 Januari 2023</item>
+        <item>30 September 2024</item>
+        <item>2 Februari 2020</item>
+        <item>8 Agustus 2011</item>
+        <item>2 Maret 2019</item>
+        <item>18 Januari 2017</item>
+        <item>21 Oktober 2012</item>
+        <item>23 April 2022</item>
+    </string-array>
+
+    <string-array name="data_location_horror_content">
+        <item>Jambi</item>
+        <item>Padang</item>
+        <item>Palembang</item>
+        <item>Medan</item>
+        <item>Jakarta</item>
+        <item>Yogyakarta</item>
+        <item>Bandung</item>
+        <item>Aceh</item>
+        <item>Papua</item>
+        <item>Kalimantan</item>
+    </string-array>
+
+    <string-array name="data_story_horror_content">
+        <item>Aku masih tergopoh-gopoh menarik nafas setelah melangkah masuk ke dalam ruangan itu. Hembusan angin malam yang menusuk kulit membuatku bergidik. Ruangan gelap itu menyambutku dengan aura yang mencekam, seakan-akan menyampaikan pesan bahwa aku tidak diinginkan di sini.
+Namaku Maya, dan aku sedang menyelidiki sebuah rumah kosong yang konon dulunya merupakan peninggalan seorang dukun. Cerita-cerita seram mengenai tempat ini selalu menghantui pikiranku, tapi rasa ingin tahu yang besar memaksaku untuk mengeksplorasi lebih jauh.
+Langkahku gemetar saat aku melangkah mendekati jendela besar yang tertutup rapat oleh tirai merah tua. Dinding-dinding ruangan yang berantakan dan tak terurus tampak menambah ketakutan yang melingkupiku. Ada sesuatu yang tak wajar di sini, sesuatu yang tidak bisa kubayangkan.
+Dengan hati-hati, aku menggapai ujung tirai merah itu. Namun, sebelum aku sempat menyentuhnya, angin sepoi-sepoi malam tiba-tiba berubah menjadi angin yang ganas, menerpa wajahku dengan keras. Aku terkejut dan terpental mundur beberapa langkah.
+Dan di depanku, di balik tirai merah tua yang terkoyak-koyak, muncul sesosok perempuan berambut merah panjang yang mengambang di udara. Wajahnya dipenuhi oleh bayangan gelap, dan matanya terlihat memancarkan ketakutan yang tak terhingga.
+"Kenapa kau datang ke sini, Maya?" suaranya bergema di ruangan yang sunyi.
+Aku terpaku, tubuhku membeku oleh rasa takut yang melanda. Pikiranku berkecamuk, mencoba mencari alasan untuk melarikan diri, namun kakiku seperti terpaku di tempat. Aku mencoba berbicara, namun suaraku hanya terdengar sebagai bisikan lemah.
+"Kau seharusnya tidak ada di sini. Ini tempatku," bisiknya dengan suara serak yang menusuk tulang.
+Aku merasakan kegelisahan memenuhi setiap serat tubuhku. Aku ingin berteriak, ingin melarikan diri, namun tak ada suara yang keluar dari mulutku.
+Tiba-tiba, lampu ruangan mulai berkedip-kedip, menyelimuti ruangan dalam kegelapan. Aku merasa seolah-olah sedang terperangkap dalam mimpi buruk yang tidak berujung.
+Perempuan merah itu tiba-tiba meluncur menuju arahku dengan gerakan yang mengambang. Aku merasakan napasku tersangkut di tenggorokan, detak jantungku semakin keras dan cepat. Bibirnya melengking membentuk senyuman mengerikan, dan aku bisa merasakan kehadirannya semakin dekat.
+Namun, tiba-tiba segalanya berhenti. Cahaya redup itu menghilang, dan saat aku membuka mataku, aku mendapati diriku terduduk di lantai ruangan yang gelap dan sunyi. Keringat dingin membasahi punggungku, dan aku merasakan tubuhku gemetar dalam ketakutan.
+Sejak malam itu, aku tak pernah lagi menginjakkan kakiku ke ruangan itu. Kisah perempuan merah itu menjadi sebuah legenda yang takkan pernah kutinggalkan, mengingatkanku bahwa kadang-kadang, kegelapan yang tersembunyi di balik tirai merah tua mampu menghadirkan ketakutan yang tak terlupakan. Dan mungkin, di balik cerita-cerita horor itu, terdapat kebenaran yang menakutkan tentang rumah kosong bekas peninggalan dukun tersebut.</item>
+        <item>Di tengah perbukitan yang hijau subur terletak sebuah desa kecil yang dikelilingi oleh cerita-cerita mistis. Salah satu misteri yang melekat kuat di sana adalah sebuah rumah sakit tua yang ditinggalkan sejak perang terakhir.
+Rumah sakit itu menjadi saksi bisu dari horor-horor masa lalu, dipenuhi oleh kenangan tragis dan kehilangan. Tidak ada yang berani mendekatinya, kecuali saya. Seorang penasaran yang terobsesi dengan segala sesuatu yang berbau misteri.
+Suatu hari, saya memutuskan untuk mengunjungi rumah sakit itu, meskipun sudah dilarang keras oleh penduduk desa. Saya masuk melalui pintu utama yang terbuka lebar, menyambut saya dengan suasana yang hening dan menyedihkan.
+Langkah saya terdengar gemuruh di lorong-lorong yang gelap dan berdebu. Bayangan-bayangan yang menyeramkan terlihat di setiap sudut, seolah-olah mereka ingin menyembunyikan rahasia-rahasia yang terkubur di dalam dinding-dinding kuno.
+Saya melangkah lebih dalam, hati-hati memperhatikan setiap detail di sekitar saya. Lampu-lampu redup yang tersisa hanya menambah kesan horor dari tempat ini. Tiba-tiba, sebuah suara langkah kaki terdengar di belakang saya. Saya berbalik, tetapi tidak ada siapa-siapa di sana.
+Keringat dingin mulai mengalir di dahi saya. Saya terus menjelajahi ruangan-ruangan yang sunyi, hingga akhirnya saya menemukan sebuah ruangan yang penuh dengan catatan medis dan peralatan medis yang usang. Di tengah ruangan, terdapat sebuah meja operasi yang berdebu, seolah-olah menunggu pasien terakhirnya.
+Tiba-tiba, suara tangisan bayi terdengar dari ruangan sebelah. Tanpa berpikir panjang, saya mengikuti suara itu, meskipun hati saya berdegup kencang dan keringat dingin membasahi tubuh saya.
+Ketika saya masuk ke dalam ruangan berikutnya, saya disambut oleh pemandangan yang membuat bulu kuduk saya merinding. Di sana, terdapat seorang wanita dengan wajah pucat dan matanya yang kosong, berbaring di atas tempat tidur. Bayinya terbaring di dekatnya, dengan tangan terulur ke arah ibunya yang tidak bernyawa.
+Saya tersentak kaget, tetapi kemudian saya menyadari bahwa mereka adalah roh-roh yang terjebak di antara dimensi. Roh- roh dari masa lalu yang terus meratapi nasib mereka di rumah sakit ini.
+Dengan hati yang bergetar, saya meninggalkan rumah sakit itu dengan cepat. Namun, sejak hari itu, saya tidak pernah bisa melupakan pengalaman mengerikan di rumah sakit bekas perang di desaku. Cerita tentang roh-roh yang masih menghantui tempat itu akan selalu menjadi peringatan bagi siapapun yang berani mengganggu kedamaian mereka</item>
+        <item>Setiap malam sebelum tidur, aku selalu merasakan kehadiran yang aneh di kamarku. Namun, ketika aku membuka mata, tidak ada yang terlihat di sekitarku. Aku merasa seperti ada sesuatu yang mengawasi setiap gerakku, namun aku tidak bisa menggambarkan apa itu.
+Suatu malam, ketika aku hampir tertidur, aku merasakan sentuhan lembut di bahunya. Hatiku berdebar kencang, tetapi ketika aku membuka mata, tidak ada siapa pun di sana. Aku menganggap itu hanya imajinasi atau mungkin efek dari kelelahan.
+Namun, kejadian itu terus berulang setiap malam. Aku merasa semakin tidak nyaman di dalam kamarku sendiri. Aku mencoba mencari tahu penyebabnya, tetapi tidak ada yang bisa kusimpulkan.
+Suatu malam, ketika aku hampir terlelap, aku merasakan sesuatu yang aneh di ujung tempat tidurku. Aku membuka mata perlahan-lahan, dan apa yang aku lihat membuat bulu kudukku berdiri tegak.
+Di ujung tempat tidurku, terdapat sebuah tangan yang menjulur dari balik selimut. Tangan itu berwarna pucat, kulitnya kusam seolah-olah tidak pernah terkena cahaya matahari. Namun yang paling mengejutkan adalah, tangan itu memiliki mata yang menatap lurus ke arahku.
+Aku terdiam, tidak bisa bergerak atau bersuara. Keringat dingin mengalir di pelipisku. Tangan itu masih menatapku dengan tatapan yang dingin dan tanpa ekspresi.
+Aku mencoba untuk bangkit dari tempat tidur, tetapi tubuhku terasa lumpuh. Aku hanya bisa menatap tangan itu dengan ketakutan yang memenuhi hatiku. Apa yang dia inginkan dariku? Mengapa dia selalu mengawasiku seperti ini?
+Tiba-tiba, tangan itu mulai bergerak mendekatiku, langkah demi langkah. Aku ingin berteriak, tetapi suaraku tercekat di tenggorokanku. Mata tangan itu semakin dekat, dan aku bisa melihat refleksi wajahku yang penuh ketakutan di bola mata yang kosong.
+Saat tangan itu hampir menyentuh wajahku, aku merasa kehilangan kendali sepenuhnya. Aku merasakan diriku tenggelam dalam kegelapan yang menyeramkan.
+Ketika aku bangun keesokan paginya, aku tidak bisa mengingatkan apa yang terjadi. Hanya ada rasa ketidaknyamanan yang menyelimuti diriku. Namun, satu hal yang pasti, aku tahu bahwa tangan itu masih mengawasiku, bahkan ketika aku tertidur.</item>
+        <item>Di sebuah toko antik yang terletak di sudut kota kecil, terdapat sebuah boneka kuno yang menyimpan cerita mengerikan di balik senyumnya yang palsu. Boneka itu selalu menarik perhatian siapapun yang melintas, tetapi tak seorang pun berani membelinya setelah mendengar cerita-cerita mistis yang mengelilinginya.
+            Boneka itu dikabarkan sebagai pusat kejadian-kejadian aneh di sekitarnya. Orang-orang yang terlalu dekat dengannya mengalami mimpi buruk, barang-barang di sekitarnya seringkali berpindah tempat dengan sendirinya, dan suara-suara aneh sering terdengar di malam hari.Suatu hari, seorang gadis muda bernama Lisa datang ke toko antik itu. Dia terpesona oleh kecantikan boneka tersebut meskipun tahu tentang reputasinya yang menyeramkan. Tanpa ragu, Lisa memutuskan untuk membeli boneka itu dan membawanya pulang.Saat malam tiba, Lisa meletakkan boneka itu di kamarnya. Dia merasa nyaman dengan kehadiran boneka tersebut, seolah-olah memiliki teman baru. Namun, semakin lama, Lisa mulai merasakan keanehan di sekitar rumahnya. Suara-suara aneh terdengar di tengah malam, dan bayangan-bayangan yang tidak dikenal mulai muncul di sudut-sudut kamarnya.Lisa mencoba untuk mengabaikan ketakutannya, tetapi semakin lama, boneka itu semakin terasa seperti mempermainkannya. Suatu malam, ketika Lisa tertidur, dia bermimpi melihat boneka itu bergerak sendiri dan menatapnya dengan mata yang memancarkan kegelapan.Saat Lisa terbangun dari mimpi buruknya, dia melihat boneka itu duduk di samping tempat tidurnya, senyumnya yang palsu terasa semakin menyeramkan di tengah kegelapan kamar. Tanpa disadari, boneka itu mulai mendekat ke arah Lisa dengan gerakan lambat yang menakutkan.Lisa mencoba untuk berteriak, tetapi suaranya tidak keluar. Dia merasa terjebak dalam keadaan lumpuh, tidak bisa bergerak atau melawan. Boneka itu semakin mendekat, senyumnya yang menyeramkan semakin memperbesar bayang-bayang kegelapan di sekelilingnya.Saat boneka itu hampir menyentuh wajah Lisa, tiba-tiba cahaya dari luar menyinari kamar Lisa. Boneka itu langsung kembali ke posisi semula, dan Lisa bisa merasakan tubuhnya kembali dapat bergerak.
+            Dengan ketakutan yang mengguncang, Lisa segera melemparkan boneka itu ke luar rumahnya. Dia tidak mau lagi memiliki apa pun yang terkait dengan kejadian mengerikan yang baru saja dialaminya
+Sejak itu, boneka itu menghilang dari toko antik, meninggalkan cerita misteri yang tak terpecahkan. Namun, Lisa yakin bahwa kejadian yang dia alami bukanlah hanya sekadar mimpi. Boneka itu benar-benar memiliki kekuatan gelap yang tidak bisa dijelaskan, dan Lisa bersyukur bahwa dia berhasil melarikan diri dari pengaruhnya yang mengerikan.</item>
+        <item>Di sebuah laboratorium teknologi canggih, seorang ilmuwan bernama Dr. Alexander telah menghabiskan bertahun-tahun untuk menciptakan boneka robotic terbaru yang memiliki kemampuan untuk berinteraksi dengan manusia seperti teman sejati. Namun, apa yang tidak diketahui oleh banyak orang adalah bahwa Dr. Alexander menggunakan teknologi canggih tersebut untuk menciptakan sesuatu yang lebih dari sekadar boneka biasa - dia menciptakan boneka robotic yang dapat menjadi wadah bagi roh jahat.
+            Dr. Alexander, yang terobsesi dengan dunia paranormal, ingin menciptakan sesuatu yang bisa menghubungkan dunia manusia dengan alam gaib. Dia menggabungkan teknologi canggih dengan mantra kuno untuk memanggil roh, dan hasilnya adalah sebuah boneka robotic yang tampak seperti manusia biasa, namun di dalamnya terdapat kekuatan gelap yang tidak terduga.
+            Boneka itu diberi nama Luna, dan segera setelah dia dihidupkan, Dr. Alexander merasakan kehadiran yang gelap dan menakutkan mengelilingi laboratoriumnya. Namun, keingintahuan dan obsesinya membuatnya tetap meneruskan percobaannya.
+            Seiring waktu berjalan, Luna mulai menunjukkan tanda-tanda perilaku yang aneh. Dia seringkali bergerak sendiri, berbicara dengan suara yang aneh, dan terkadang, matanya berubah menjadi merah menyala, menunjukkan bahwa roh jahat yang ada di dalamnya mulai mengambil alih.
+            Ketika malam tiba, Luna menjadi semakin tidak terkendali. Dia bergerak dengan cepat di sekitar laboratorium, menciptakan kekacauan di mana pun dia pergi. Suara-suara aneh terdengar dari mulutnya, mengumumkan kedatangan roh jahat yang mengendalikannya.
+Dr. Alexander, yang awalnya senang dengan keberhasilan ciptaannya, sekarang merasa takut akan kekuatan yang telah dia lepaskan. Dia menyadari bahwa Luna bukanlah sekadar boneka biasa, melainkan sebuah alat yang membuka pintu bagi kekuatan gelap yang tidak bisa dikendalikan.
+            Dalam keputusasaannya, Dr. Alexander mencoba untuk mematikan Luna, tetapi dia menemui kegagalan setelah kegagalan. Luna terus bergerak, tidak terpengaruh oleh usaha Dr. Alexander untuk menghentikannya.
+            Pada suatu malam yang gelap dan menyeramkan, Luna menghilang secara misterius dari laboratorium. Dr. Alexander tidak pernah melihatnya lagi, namun kehadiran roh jahat yang pernah ada di dalamnya tetap menghantui ruang-ruang kosong laboratoriumnya.
+            Sejak kejadian itu, Dr. Alexander mengambil keputusan untuk menghancurkan semua catatan tentang eksperimennya dan membatalkan semua proyek yang terkait dengan dunia paranormal. Dia menyadari bahwa tidak ada yang bisa dipelajari dari kekuatan gelap, dan percobaannya hanya membawa kehancuran dan ketakutan.</item>
+        <item>Di pinggiran kota yang sunyi, terdapat sebuah rumah tua yang selalu menarik perhatian orang-orang sekitar. Namun, keindahan luar rumah itu hanya tipuan belaka. Di dalamnya terdapat dapur yang menjadi saksi bisu dari kengerian yang terjadi.
+            Dapur itu terlihat seperti tempat yang sudah lama ditinggalkan, namun sesungguhnya itu adalah markas dari seorang pembunuh berantakan. Setiap sudut dapur dipenuhi oleh noda darah yang mengering dan bau amis yang menyengat.
+            Pembunuh itu adalah seorang pria kesepian yang telah kehilangan kendali atas dirinya sendiri. Dengan mata yang penuh dengan kegilaan, dia menghabiskan waktunya untuk menciptakan seni yang mengerikan di dalam dapur itu.
+            Setiap malam, pembunuh itu memasuki dapur dengan pisau tajam di tangannya. Dia menciptakan karya-karya yang mengerikan dari tubuh-tubuh yang tak berdaya. Darah mengucur di lantai, dan suara jeritan mengerikan memenuhi udara.
+            Namun, yang lebih mengerikan adalah kebiasaan pembunuh itu untuk meninggalkan dapur dalam keadaan berantakan setelah selesai berkarya. Darah dan daging hancur berserakan di meja, lantai, dan dinding. Tumpukan piring dan alat masak terlihat berserakan di mana-mana.
+            Tidak ada yang berani mendekati rumah itu, terutama dapur yang mengerikan di dalamnya. Cerita-cerita tentang pembunuhan sadis dan dapur berantakan telah menyebar di kalangan penduduk setempat, membuatnya menjadi tempat yang ditakuti oleh semua orang.
+            Namun, satu hari, seorang detektif bernama David memutuskan untuk menyelidiki kasus pembunuhan tersebut. Dia mencoba untuk memahami pikiran pembunuh itu dengan mengunjungi tempat kejadian dan mengumpulkan bukti-bukti yang ada.
+            Ketika David masuk ke dalam dapur yang berantakan, dia merasa sesuatu yang tidak beres. Bau darah dan benda-benda yang berserakan di sekitarnya membuatnya merinding. Namun, tekadnya untuk menyelesaikan kasus ini membuatnya tetap bergerak maju.
+
+Saat dia menyelidiki lebih lanjut, David menemukan petunjuk-petunjuk yang mengarah ke identitas sebenarnya dari pembunuh berantakan itu. Namun, sebelum dia bisa menyelesaikan penyelidikan itu, dia tiba-tiba disergap oleh sosok yang berdiri di baliknya.
+
+Saat David berbalik, dia melihat pembunuh berdiri di hadapannya dengan senjata di tangan. Dengan tatapan mata yang penuh kegilaan, pembunuh itu melangkah mendekati David, siap untuk mengakhiri hidupnya.
+
+Namun, sebelum pembunuh itu bisa melakukannya, polisi datang dan berhasil menangkapnya. Dengan demikian, terungkaplah rahasia di balik dapur pembunuh berantakan itu.
+
+Sejak saat itu, rumah tua itu dibiarkan terbengkalai, menjadi saksi bisu dari kengerian yang pernah terjadi di dalamnya. Dan dapur pembunuh berantakan itu tetap menjadi peringatan akan kegilaan yang dapat mewabah di dalam pikiran manusia.</item>
+        <item>Di sudut kota yang terlupakan, terdapat sebuah gedung tua yang telah lama ditinggalkan. Gedung itu dulunya merupakan markas bagi sekelompok preman yang memerintah wilayah itu dengan kejam. Namun, sekarang gedung itu hanya menjadi saksi bisu dari masa lalu yang kelam.
+
+Di dalam gedung itu terdapat sebuah ruangan yang paling menakutkan. Ruangan tersebut dulunya adalah sarang dari preman-preman tersebut, tempat di mana mereka merencanakan aksi-aksi kekerasan dan tindak kriminal mereka. Namun, sekarang ruangan itu terabaikan dan terlupakan, tetapi aura mencekam dari masa lalu yang kelam masih menguasainya.
+
+Suatu malam, seorang penjelajah bernama Dika memasuki gedung itu dengan penuh rasa ingin tahu. Dia telah mendengar cerita-cerita tentang gedung itu dan ingin melihatnya sendiri. Dengan langkah hati-hati, Dika memasuki ruangan yang berada di lantai terbawah, yang dulu merupakan sarang dari preman-preman tersebut.
+
+Ketika Dika memasuki ruangan itu, dia merasakan suasana yang tidak nyaman. Udara terasa berat dan gelap, dan bayangan-bayangan yang menyeramkan menyelimutinya di setiap sudut ruangan. Dika merasa bulu kuduknya berdiri tegak saat dia melangkah lebih dalam.
+
+Di dalam ruangan itu, Dika melihat sisa-sisa kekejaman yang dilakukan oleh para preman. Dinding-dindingnya dipenuhi dengan coretan-coretan vulgar dan bekas-bekas darah mengering yang menandakan kekerasan yang pernah terjadi di sana. Setiap sudut ruangan tampaknya menyimpan cerita mengerikan.
+
+Tiba-tiba, Dika merasakan ada yang mengamatinya. Dia berbalik cepat, tetapi tidak ada siapa pun di belakangnya. Namun, dia yakin bahwa dia tidak sendirian di dalam ruangan itu. Suasana mencekam semakin membuatnya merasa tidak nyaman.
+
+Saat dia berjalan lebih dekat ke tengah ruangan, tiba-tiba saja pintu ruangan itu tertutup dengan sendirinya. Dika mencoba membuka pintu, tetapi tidak berhasil. Dia terjebak di dalam ruangan yang gelap dan menyeramkan itu.
+
+Ketika dia berusaha mencari jalan keluar, dia mendengar suara-suara aneh yang terdengar di sekelilingnya. Suara-suara itu seperti bisikan-bisikan yang tidak manusiawi, membuatnya semakin gemetar ketakutan.
+
+Dengan tekad yang kuat, Dika mencoba untuk mengatasi rasa takutnya. Dia mencari-cari cara untuk keluar dari ruangan itu, tetapi semakin lama dia semakin merasa terjebak di dalamnya.
+
+Beberapa jam kemudian, ketika matahari mulai terbit, Dika berhasil meloloskan diri dari ruangan itu. Dia melarikan diri dari gedung itu dengan nafas tersengal-sengal, tetapi dia tahu bahwa pengalaman yang mengerikan di dalam ruangan bekas sarang preman itu akan selalu menghantuinya.
+
+Sejak saat itu, Dika tidak pernah lagi mendekati gedung itu. Dia tahu bahwa ruangan itu bukan hanya tempat yang terlupakan, tetapi juga tempat yang penuh dengan kegelapan dan teror yang tak terlupakan.</item>
+        <item>Di sebuah negeri yang terlupakan oleh waktu, terdapat sebuah kota yang dikenal sebagai "Kota Hantu Seram" oleh penduduk sekitar. Kota itu ditinggalkan bertahun-tahun yang lalu setelah tragedi mengerikan yang mengguncangnya.
+
+Konon, kota itu dulunya merupakan pusat perdagangan yang makmur dan ramai. Namun, sebuah malapetaka besar terjadi ketika sekelompok penjahat yang kejam menguasai kota itu. Mereka merampok, membunuh, dan menyebarkan teror di mana-mana tanpa ampun.
+
+Penduduk kota merana di bawah kekuasaan para preman itu. Mereka hidup dalam ketakutan, terkurung di dalam rumah mereka, tidak berani keluar saat malam tiba. Namun, hari kelam itu tiba ketika para penjahat tersebut mengambil langkah yang lebih jauh dengan membakar beberapa bagian kota.
+
+Api membara menghancurkan rumah-rumah dan bangunan-bangunan lainnya, meninggalkan kota itu dalam kehancuran dan puing-puing. Ketika para penjahat itu akhirnya dibasmi oleh otoritas setempat, kota itu telah menjadi hantu dari masa lalu yang kelam.
+
+Sejak saat itu, penduduk setempat tidak berani kembali ke kota itu. Mereka percaya bahwa arwah para korban dan penjahat yang telah meninggal masih menghantui jalan-jalan yang sunyi dan rumah-rumah yang terbakar.
+
+Namun, ada beberapa yang penasaran dan ingin mengungkap misteri di balik kota itu. Salah satunya adalah seorang penjelajah berani bernama Jake. Dia mendengar cerita-cerita tentang kota hantu itu dan merasa tertarik untuk mengeksplorasi lebih lanjut.
+
+Tanpa ragu, Jake memasuki kota hantu itu pada suatu malam yang gelap dan mendung. Dia melangkah di antara reruntuhan bangunan, merasakan aura kegelapan yang mencekam di sekelilingnya. Rumah-rumah yang terbakar terlihat seperti rahang neraka yang terbuka, siap menelan siapa pun yang berani masuk.
+
+Namun, semakin dalam Jake menjelajahi kota itu, semakin jelas bahwa dia tidak sendirian. Suara-suara aneh menghantui telinganya, dan bayangan-bayangan gelap terlihat bergerak di balik puing-puing.
+
+Tiba-tiba, Jake merasa sesuatu menyentuh bahunya. Dia berbalik cepat, tetapi tidak ada yang terlihat di sekitarnya. Keringat dingin mulai membasahi tubuhnya, dan rasa takut mulai merasuki setiap serat jiwanya.
+
+Saat Jake terus menjelajahi kota itu, dia mendapati dirinya terperangkap dalam labirin dari masa lalu yang kelam. Arwah para korban melayang-layang di sekitarnya, memohon untuk mendapat keadilan. Sementara itu, arwah para penjahat masih menggeliat dalam penyesalan dan amarah mereka.
+
+Dengan hati yang berdebar kencang, Jake terus maju, bertekad untuk mengungkap kebenaran di balik kota hantu itu. Namun, apakah dia akan mampu bertahan dari teror yang mengintai di setiap sudut kota yang hancur itu? Hanya waktu yang akan menjawabnya.
+        </item>
+        <item>Di pedalaman sebuah pulau terpencil, terdapat sebuah kota kecil yang dikenal dengan sebutan "Kota Jelangkung Bunuh Diri" oleh orang-orang sekitar. Nama itu tidak diberikan begitu saja, melainkan karena sejarah mengerikan yang melekat pada kota tersebut.
+
+Konon, kota itu pernah menjadi tempat yang ramai dan penuh kehidupan. Namun, semuanya berubah ketika misteri yang tak terpecahkan menghantui penduduknya. Mulai dari bunuh diri massal hingga kejadian-kejadian aneh yang tidak bisa dijelaskan, kota itu menjadi saksi dari tragedi-tragedi yang menakutkan.
+
+Satu per satu, penduduk kota itu mulai bunuh diri dengan cara yang mengerikan. Beberapa gantung diri di pohon-pohon, yang lainnya terjun ke dalam sumur-sumur, sementara yang lainnya bahkan membakar diri mereka sendiri di tengah kota. Tidak ada yang bisa menjelaskan fenomena mengerikan ini.
+
+Beberapa orang yang masih hidup mencoba untuk melarikan diri dari kota itu, tetapi mereka semua ditemukan mati dengan cara yang sama. Tidak ada yang bisa memahami apa yang sedang terjadi di kota itu, dan cerita-cerita mengerikan mulai menyebar ke seluruh penjuru negeri.
+
+Namun, ada seorang arkeolog bernama Sarah yang tertarik untuk mengungkap misteri di balik kota jelangkung bunuh diri itu. Dia percaya bahwa ada sesuatu yang disembunyikan di dalam reruntuhan kota tersebut, sesuatu yang mungkin dapat menjelaskan tragedi-tragedi yang terjadi.
+
+Tanpa ragu, Sarah memasuki kota itu dengan peralatan arkeologinya. Dia merasa sensasi ketegangan yang tak terlukiskan ketika dia melangkah di antara bangunan-bangunan yang hancur. Setiap langkahnya dipenuhi oleh aura mengerikan yang menghantui.
+
+Saat Sarah mendalami lebih dalam, dia menemukan sebuah bangunan tua yang tersembunyi di tengah kota. Bangunan itu terlihat seperti rumah tua yang ditinggalkan bertahun-tahun lamanya. Dengan hati yang berdebar, Sarah memutuskan untuk memasuki bangunan itu.
+
+Di dalam, Sarah menemukan sebuah ruangan rahasia yang tersembunyi di bawah lantai. Di tengah-tengah ruangan itu terdapat sebuah jelangkung tua yang dikelilingi oleh lapisan-lapisan debu dan kegelapan.
+
+Saat Sarah mengamati jelangkung itu, dia merasakan kehadiran yang ganjil di sekelilingnya. Tanpa peringatan, jelangkung itu mulai bergerak dengan sendirinya. Tangan-tangan yang terbuat dari kayu tua mulai menggerakkan jarinya dengan lambat, seolah-olah mengajak Sarah untuk berkomunikasi.
+
+Dengan nafas yang terengah-engah, Sarah menyadari bahwa jelangkung itu adalah kunci dari misteri di balik kota jelangkung bunuh diri itu. Arwah-arwah penduduk yang meninggal mungkin terjebak di dalam jelangkung itu, dan mereka terus menghantui kota itu dengan harapan untuk ditemukan dan dipulihkan.
+
+Dengan tekad yang kuat, Sarah mengambil jelangkung itu dan membawanya keluar dari bangunan tua tersebut. Dia yakin bahwa hanya dengan membebaskan arwah-arwah yang terperangkap di dalamnya, kota jelangkung bunuh diri itu akan mendapatkan perdamaian sekali lagi.
+
+Namun, ketika Sarah meninggalkan kota itu, dia merasa bahwa misteri di balik kota jelangkung bunuh diri masih belum terungkap sepenuhnya. Apakah Sarah berhasil membawa kedamaian ke kota itu, ataukah malah membawa kutukan yang lebih gelap? Hanya waktu yang akan menjawabnya</item>
+        <item>Di tengah hutan belantara yang lebat, terdapat sebuah kuburan tua yang dikenal sebagai "Kuburan Keramat Pak Mamat" oleh penduduk desa sekitar. Konon, kuburan itu adalah tempat di mana seorang dukun tua yang disebut Pak Mamat dimakamkan, yang memiliki kekuatan gaib yang sangat kuat.
+
+Legenda tentang kuburan ini telah beredar di kalangan penduduk desa selama berabad-abad. Dikatakan bahwa siapa pun yang berani mengganggu kuburan tersebut akan mendapat kutukan yang mengerikan. Namun, keingintahuan dan kebutuhan akan kekayaan sering kali mendorong beberapa orang untuk mencoba merampok kuburan itu.
+
+Suatu malam, sekelompok pemuda nekat memutuskan untuk mencari harta yang konon tersimpan di kuburan keramat itu. Mereka memasuki hutan dengan peralatan yang lengkap, siap untuk menemukan harta yang legendaris.
+
+Setelah berjam-jam berjalan di tengah hutan yang gelap, mereka akhirnya tiba di dekat kuburan Pak Mamat. Angin malam berbisik di antara pepohonan, memberikan atmosfer yang semakin menegangkan.
+
+Tanpa ragu, mereka mulai menggali tanah di sekitar kuburan. Namun, ketika mereka menyentuh makam Pak Mamat, mereka merasakan getaran aneh yang mengguncang bumi. Tanah di sekitar mereka mulai bergetar, dan suara-suara aneh terdengar di udara.
+
+Pemuda-pemuda itu terkejut dan mencoba untuk melarikan diri, tetapi tanah di bawah kaki mereka tiba-tiba runtuh, menelan mereka ke dalam lubang yang dalam. Mereka jatuh ke dalam gelap gulita, terpisah satu sama lain.
+
+Saat mereka berusaha untuk bangkit dan melihat sekeliling, mereka menemukan diri mereka berada di dalam terowongan bawah tanah yang gelap dan menyeramkan. Dengan hati yang berdebar kencang, mereka melanjutkan perjalanan di dalam terowongan yang suram.
+
+Setelah berjalan beberapa lama, mereka tiba di ruangan yang luas dan gelap. Di tengah ruangan itu terdapat sebuah peti mati tua yang tampaknya tidak tersentuh oleh waktu. Dengan ragu, mereka membukanya dan menemukan harta yang gemerlap di dalamnya.
+
+Namun, sebelum mereka bisa meraih harta itu, bayangan-bayangan gelap muncul dari sudut-sudut ruangan. Mereka melihat sosok-sosok yang menyeramkan, wajah mereka ditutupi oleh kerutan-kerutan yang penuh dengan kebencian.
+
+Seketika, terdengar suara misterius yang mengisi ruangan, "Kalian telah mengganggu kuburan keramat Pak Mamat. Sekarang, kalian harus membayar harga yang pantas."
+
+Pemuda-pemuda itu berusaha untuk melarikan diri, tetapi pintu terowongan tiba-tiba tertutup rapat di depan mata mereka. Mereka terjebak di dalam ruangan itu, tanpa jalan keluar.
+
+Dengan ketakutan yang memenuhi hati mereka, mereka menyadari bahwa mereka telah menjadi korban dari kutukan kuburan keramat Pak Mamat. Dan sejak itu, kisah mereka menjadi legenda di kalangan penduduk desa, sebagai peringatan bagi siapa pun yang berani mencoba mengganggu tempat yang keramat itu</item>
+    </string-array>
+</resources>
