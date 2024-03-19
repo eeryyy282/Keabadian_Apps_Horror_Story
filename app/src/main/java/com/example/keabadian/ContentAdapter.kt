@@ -7,10 +7,10 @@ import android.view.ViewGroup
 import android.widget.AdapterView.OnItemClickListener
 import android.widget.ImageView
 import android.widget.TextView
-import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 
-class ContentAdapter(private val listContent: ArrayList<Content>): RecyclerView.Adapter<ContentAdapter.ListViewHolder>() {
+class ContentAdapter(private val listContent: ArrayList<Content>) :
+    RecyclerView.Adapter<ContentAdapter.ListViewHolder>() {
 
     private lateinit var onItemClickCallback: OnItemClickListener
 
@@ -23,7 +23,8 @@ class ContentAdapter(private val listContent: ArrayList<Content>): RecyclerView.
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ListViewHolder {
-        val view: View = LayoutInflater.from(parent.context).inflate(R.layout.item_row_content, parent, false)
+        val view: View =
+            LayoutInflater.from(parent.context).inflate(R.layout.item_row_content, parent, false)
         return ListViewHolder(view)
     }
 
@@ -37,7 +38,7 @@ class ContentAdapter(private val listContent: ArrayList<Content>): RecyclerView.
         holder.location.text = locationContent
         holder.date.text = dateContent
 
-        holder.itemView.setOnClickListener{
+        holder.itemView.setOnClickListener {
             val intentDetail = Intent(holder.itemView.context, DetailActivity::class.java)
             intentDetail.putExtra("extra_content", listContent[holder.adapterPosition])
             holder.itemView.context.startActivity(intentDetail)

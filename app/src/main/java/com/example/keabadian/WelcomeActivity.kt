@@ -25,7 +25,7 @@ class WelcomeActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     override fun onClick(v: View?) {
-        when(v?.id) {
+        when (v?.id) {
             R.id.button_move -> {
                 val moveToStartActivity = Intent(this@WelcomeActivity, StartActivity::class.java)
                 startActivity(moveToStartActivity)

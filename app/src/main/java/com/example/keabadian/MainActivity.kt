@@ -32,9 +32,15 @@ class MainActivity : AppCompatActivity() {
 
         val imageSlider: ImageSlider = findViewById(R.id.image_slider)
         val images = ArrayList<SlideModel>()
-        images.add(SlideModel(R.drawable.konten1, "Tirai dan Perempuan Merah",ScaleTypes.FIT))
-        images.add(SlideModel(R.drawable.konten2, "Rumah Sakit Bekas Perang di Desaku",ScaleTypes.FIT))
-        images.add(SlideModel(R.drawable.konten3, "Tangan itu Melihatku Tertidur",ScaleTypes.FIT))
+        images.add(SlideModel(R.drawable.konten1, "Tirai dan Perempuan Merah", ScaleTypes.FIT))
+        images.add(
+            SlideModel(
+                R.drawable.konten2,
+                "Rumah Sakit Bekas Perang di Desaku",
+                ScaleTypes.FIT
+            )
+        )
+        images.add(SlideModel(R.drawable.konten3, "Tangan itu Melihatku Tertidur", ScaleTypes.FIT))
         imageSlider.setImageList(images)
 
         rvContent = findViewById(R.id.rv_content)
@@ -58,7 +64,13 @@ class MainActivity : AppCompatActivity() {
 
         val listContent = ArrayList<Content>()
         for (i in dataTitle.indices) {
-            val content = Content(dataTitle[i], dataStory[i], dataPhoto.getResourceId(i, -1), dataLocation[i], dataDate[i])
+            val content = Content(
+                dataTitle[i],
+                dataStory[i],
+                dataPhoto.getResourceId(i, -1),
+                dataLocation[i],
+                dataDate[i]
+            )
             listContent.add(content)
         }
         dataPhoto.recycle()
@@ -66,13 +78,12 @@ class MainActivity : AppCompatActivity() {
     }
 
 
-
     private fun showRecyclerList() {
         rvContent.layoutManager = LinearLayoutManager(this)
         val listContentAdapter = ContentAdapter(list)
         rvContent.adapter = listContentAdapter
 
-        listContentAdapter.setOnItemClickCallback(object: ContentAdapter.OnItemClickListener {
+        listContentAdapter.setOnItemClickCallback(object : ContentAdapter.OnItemClickListener {
             override fun onItemClicked(data: Content) {
                 showSelectedContent(data)
             }
@@ -80,7 +91,11 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun showSelectedContent(content: Content) {
-        Toast.makeText(this, "Kamu ingin membaca konten " + content.titleContent + " ?", Toast.LENGTH_SHORT ).show()
+        Toast.makeText(
+            this,
+            "Kamu ingin membaca konten " + content.titleContent + " ?",
+            Toast.LENGTH_SHORT
+        ).show()
     }
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
@@ -88,9 +103,11 @@ class MainActivity : AppCompatActivity() {
             R.id.action_list -> {
                 rvContent.layoutManager = LinearLayoutManager(this)
             }
+
             R.id.action_grid -> {
                 rvContent.layoutManager = GridLayoutManager(this, 2)
             }
+
             R.id.about_page -> {
                 val moveToAboutPage = Intent(this@MainActivity, AboutActivity::class.java)
                 startActivity(moveToAboutPage)

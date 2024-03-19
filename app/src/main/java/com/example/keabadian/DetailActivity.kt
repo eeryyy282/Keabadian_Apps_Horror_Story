@@ -48,13 +48,20 @@ class DetailActivity : AppCompatActivity() {
             tvStoryDetailContent.text = dataContent.storyContent
             tvLocationDetailContent.text = dataContent.locationContent
             photoDetailContent.setImageResource(dataContent.storyPhoto)
-            loveDetailContent.setOnClickListener{
-                Toast.makeText(loveDetailContent.context,"Menyukai cerita " + tvTitleDetailContent.text + " !", Toast.LENGTH_SHORT ).show()
+            loveDetailContent.setOnClickListener {
+                Toast.makeText(
+                    loveDetailContent.context,
+                    "Menyukai cerita " + tvTitleDetailContent.text + " !",
+                    Toast.LENGTH_SHORT
+                ).show()
             }
-            shareDetailContene.setOnClickListener{
-                val sendIntent: Intent = Intent(). apply {
+            shareDetailContene.setOnClickListener {
+                val sendIntent: Intent = Intent().apply {
                     action = Intent.ACTION_SEND
-                    putExtra(Intent.EXTRA_TEXT, tvTitleDetailContent.text.toString() + "\n" + tvStoryDetailContent.text.toString())
+                    putExtra(
+                        Intent.EXTRA_TEXT,
+                        tvTitleDetailContent.text.toString() + "\n" + tvStoryDetailContent.text.toString()
+                    )
                     type = "text/plain"
                 }
                 val shareIntent = Intent.createChooser(sendIntent, null)

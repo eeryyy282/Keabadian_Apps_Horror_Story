@@ -36,7 +36,7 @@ class StartActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     override fun onClick(v: View?) {
-        if(v?.id == R.id.button_move_with_name) {
+        if (v?.id == R.id.button_move_with_name) {
             var isEmptyFields = false
             var textKosong: String = "Nama anda tidak boleh kosong"
             val userName = textName.text.toString()
